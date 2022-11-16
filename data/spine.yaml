@@ -1,0 +1,7 @@
+train: ../data/images/train
+val: ../data/images/valid
+test: ../data/images/test
+
+# Classes
+nc: 1  # number of classes
+names: ['vertebrae']  # class names
